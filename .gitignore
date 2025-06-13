@@ -9,3 +9,6 @@ DS_Store
 
 # pycache files
 __pycache__/
+
+# env files
+.env
