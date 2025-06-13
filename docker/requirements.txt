@@ -1,0 +1,9 @@
+requests
+pandas
+apache-airflow-providers-google
+google-cloud-bigquery
+google-cloud-storage
+google-api-python-client
+google-auth-oauthlib
+google-analytics-admin
+google-analytics-data

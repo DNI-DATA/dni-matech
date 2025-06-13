@@ -1,0 +1,6 @@
+import os
+
+GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID")
+GCP_STORAGE_BUCKET = os.getenv("GCP_STORAGE_BUCKET")
+
+APPSFLYER_TOKEN_V2 = os.getenv("APPSFLYER_TOKEN_V2")

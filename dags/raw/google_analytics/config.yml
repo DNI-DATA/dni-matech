@@ -1,0 +1,2 @@
+bucket: 'raw/google_analytics'
+table_id: '{gcp_project_id}.raw.google_analytics'
